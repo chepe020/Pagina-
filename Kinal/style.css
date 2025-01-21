@@ -1,0 +1,14 @@
+.bodys {
+    background-image: url("/imagenes/fondokinal.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.tema1 {
+    font-family: "Jersey 15", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
