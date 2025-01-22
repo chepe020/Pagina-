@@ -1,0 +1,34 @@
+.bodys {
+    background-image: url("/imagenes/fondokinal.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.tema1 {
+    font-family: "Jersey 15", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+
+ .linea-azul {
+    width: 2000px;
+    height: 200px;
+    background-color: rgb(34, 34, 93);
+    position: relative; 
+}
+
+.imagenes {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%; 
+}
+
+.imagenes img {
+    height: 60px; 
+}
